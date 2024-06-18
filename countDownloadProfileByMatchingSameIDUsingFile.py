@@ -1,4 +1,4 @@
-# Finding out how many times we have downloaded a profile with same ID by matching the data inside the file.
+# Find out how many times we have downloaded a profile with same ID by matching the data inside the file.
 import os
 import configparser
 import datetime
